@@ -1,26 +1,37 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uddesh R. Piprewar
 ==========================================================================================================================================
 
-Web Developer and Designer
---------------------------
+## 🚀 About Me
+CCNA-certified Network Engineer focused on secure, efficient, and reliable network operations. Skilled in troubleshooting, monitoring, and configuration.
 
-I am currently learning Java full stack development and exploring React JS. Additionally, I possess knowledge in various design tools, including Canva, PosterMyWall, and Renderforest. I hold typing certificates with proficiency in English at 40 words per minute and Marathi at 30 words per minute.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Nagpur , Maharashtra
-* 🧠  I'm learning Spring Framework
-* 🤝  I'm open to collaborating on Projects
+## 💼 Experience
 
-### Skills
+- **Field Operation Engineer – Sify Technologies (SBI Local Head Office Onsite, Pune)**
+  - Used **VuSmartMaps** to check down links, identify isolated branches, and monitor connectivity status.  
+  - Worked with **BMC Remedy** to update incidents, take updates from ISP providers, and assign tickets within 5 minutes to meet SLA.  
+  - Verified link status using **CMD** and **PuTTY** tools for troubleshooting.  
+  - Supported branches across Pune, ensuring smooth operations and quick resolution of network issues.  
+  - Coordinated with the **NOC team** for escalations and higher-level network problems.  
+  - Performed **FLT (First Level Troubleshooting)** at branch sites to restore services efficiently.
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+- **Network Engineer – HTP Global (SBI LHO Onsite, Pune)**  
+  - Focused on **internet connectivity** during SBI LHO furnishing work.  
+  - Installed **Access Points** with vendor support to ensure wireless coverage.  
+  - Configured **switches** and verified stable internet connectivity across the entire 15th floor of the SBI LHO building.  
+  - Ensured reliable internet connectivity for meetings and official operations.  
+  - Delivered smooth setup and troubleshooting during critical deployment phases.  
 
-### Socials
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"> <a href="https://www.github.com/UddeshPiprewar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/uddesh-piprewar-661228218/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+## 🛠️ Skills
+- **Networking:** Switch/Router Configuration, OSI, TCP/IP, VLANs, Routing Protocols  
+- **Monitoring Tools:** VuSmartMaps, BMC Remedy  
+- **Troubleshooting Tools:** CMD, PuTTY, First Level Troubleshooting (FLT)  
+- **Operations:** ISP coordination, SLA compliance, NOC team collaboration  
+- **Soft Skills:** Problem-solving, documentation, client-facing support
 
-<b>My GitHub Stats</b>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a href="http://www.github.com/UddeshPiprewar"><img src="https://github-readme-stats.vercel.app/api?username=UddeshPiprewar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="UddeshPiprewar's GitHub stats" /></a>
+
